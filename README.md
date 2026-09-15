@@ -1,5 +1,3 @@
-# Dio-NotebookLM
-
 # Caderno Temático: Prompts de IA Para Otimizar Seus Estudos 🧠🤖
 
 Este projeto foi desenvolvido como parte de um desafio prático para explorar o uso da Inteligência Artificial como uma ferramenta de aprendizagem ativa. Utilizando o Google NotebookLM, transformei diversas fontes da internet em um "segundo cérebro", garantindo a curadoria de informações e minimizando o risco de alucinações da IA.
